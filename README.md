@@ -14,4 +14,4 @@ QuickSocket协议部分
 4、校验码：0 ~ 255， 长度8位，校验协议头部数据，校验码计算方式：头部所有字节取异或
 5、数据：长度 0 ~ 65535字节
 
-https://upload-images.jianshu.io/upload_images/16395138-b282947e24c43cef.png?imageMogr2/auto-orient/strip|imageView2/2/w/401/format/webp
+https://www.jianshu.com/p/c84cf595ffc5
